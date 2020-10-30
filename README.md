@@ -1,4 +1,9 @@
-### Hi there 👋
+### Peter Bottenberg 👋
+
+Lead Software Developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands.  
+Software Development · Open Source · Linux · Docker · Games · Photography
+
+More about me: [bottenberg.dev](https://bottenberg.dev)
 
 <!--
 **CyberJack/cyberjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
