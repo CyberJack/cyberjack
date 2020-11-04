@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Peter Bottenberg 👋</h1>
 
-I'm a Lead Software Developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands.
+I'm a Lead Software Developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands.  
 Software Development · Open Source · Linux · Docker · Games · Photography
 
 👨🏻‍💻 You can find more about me on [bottenberg.dev](https://bottenberg.dev)
