@@ -3,7 +3,7 @@
 I'm a Lead Software Developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands.  
 Software Development · Open Source · Linux · Docker · Games · Photography
 
-👨🏻‍💻 You can find more about me on [bottenberg.dev](https://bottenberg.dev)
+👨🏻‍💻 You can find more about me on [bottenberg.dev](https://bottenberg.dev) (in Dutch)
 
 💬 Ask me about **PHP, Linux, Secure software development**
 
