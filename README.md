@@ -14,6 +14,7 @@ Software Development · Open Source · Linux · Docker · Games · Photography
   <img src="https://api.iconify.design/fontisto/php.svg?color=%23787CB5&height=32" alt="PHP"/>&nbsp;
   <img src="https://api.iconify.design/fa6-brands/golang.svg?color=%2329beb0&width=32" alt="Go"/>&nbsp;
   <img src="https://api.iconify.design/logos/python.svg?width=32" alt="Python"/>&nbsp;
+  <img src="https://api.iconify.design/logos/javascript.svg?width=32" alt="JavaScript"/>&nbsp;
   <img src="https://api.iconify.design/vscode-icons/file-type-symfony.svg?width=32" alt="Symfony"/>&nbsp;
   <img src="https://api.iconify.design/logos/laravel.svg?width=32" alt="Laravel"/>&nbsp;
   <img src="https://api.iconify.design/logos/docker-icon.svg?width=32" alt="Docker"/>&nbsp;
