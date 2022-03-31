@@ -1,32 +1,33 @@
 <h1 align="center">Hello, I'm Peter Bottenberg 👋</h1>
 
-I'm a Lead Software Developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands.  
+I'm a Lead Software Developer at [iO](https://iodigital.com) in Eindhoven, The Netherlands.  
 Software Development · Open Source · Linux · Docker · Games · Photography
 
 👨🏻‍💻 You can find more about me on [bottenberg.dev](https://bottenberg.dev) (in Dutch)
 
-💬 Ask me about **PHP, Linux, Secure software development**
-
-🌱 I’m currently learning [Golang](https://golang.org/)
+- 🌱 I’m currently learning [Golang](https://golang.org/).
+- 🔭 I’m currently working on a blog, which will mainly serve as an archive of topics that I regularly deal with.
+- 🔭 I’m currently working on a personal time tracker to make my work life a little bit easier.
+- 💬 Ask me about PHP, Docker or Secure software development.
 
 <p align="center">
-  <img src="https://api.iconify.design/fa-brands:php.svg" alt="php" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:symfony.svg" alt="symfony" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:docker.svg" alt="docker" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:arch-linux.svg" alt="arch linux" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/bx:bxl-git.svg" alt="git" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:postgresql.svg" alt="postgresql" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/grommet-icons:mysql.svg" alt="mysql" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:redis.svg" alt="redis" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:go.svg" alt="go" width="32" height="32"/>&nbsp;
-  <img src="https://api.iconify.design/cib:duckduckgo.svg" alt="duckduckgo" width="32" height="32"/>
+  <img src="https://api.iconify.design/fontisto/php.svg?color=%23787CB5&height=32" alt="PHP"/>&nbsp;
+  <img src="https://api.iconify.design/fa6-brands/golang.svg?color=%2329beb0&width=32" alt="go"/>&nbsp;
+  <img src="https://api.iconify.design/logos/python.svg?width=32" alt="Python"/>&nbsp;
+  <img src="https://api.iconify.design/vscode-icons/file-type-symfony.svg?width=32" alt="Symfony"/>&nbsp;
+  <img src="https://api.iconify.design/logos/docker-icon.svg?width=32" alt="Docker"/>&nbsp;
+  <img src="https://api.iconify.design/cib/arch-linux.svg?color=%231793d1&width=32" alt="arch linux"/>&nbsp;
+  <img src="https://api.iconify.design/bx:bxl-git.svg?color=%23f1502f&width=32" alt="git"/>&nbsp;
+  <img src="https://api.iconify.design/logos/postgresql.svg?width=32" alt="postgresql"/>&nbsp;
+  <img src="https://api.iconify.design/logos/mysql-icon.svg?width=32" alt="mysql"/>&nbsp;
+  <img src="https://api.iconify.design/logos/redis.svg?width=32" alt="redis"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/peterbottenberg" title="linkedin" target="_blank"><img src="https://api.iconify.design/ant-design:linkedin-filled.svg" alt="linkedin" width="32" height="32"/></a>&nbsp;
-  <a href="https://twitter.com/PeterBottenberg" title="twitter" target="_blank"><img src="https://api.iconify.design/ant-design:twitter-outlined.svg" alt="twitter" width="32" height="32"/></a>&nbsp;
-  <a href="https://t.me/peterbottenberg" title="telegram" target="_blank"><img src="https://api.iconify.design/bx:bxl-telegram.svg" alt="twitter" width="32" height="32"/></a>&nbsp;
-  <a href="https://bottenberg.dev" title="About me" target="_blank"><img src="https://api.iconify.design/gg:website.svg" alt="about me" width="32" height="32"/></a>
+  <a href="https://www.linkedin.com/in/peterbottenberg" title="linkedin" target="_blank"><img src="https://api.iconify.design/logos/linkedin-icon.svg?width=32" alt="linkedin" width="32" height="32"/></a>&nbsp;
+  <a href="https://twitter.com/PeterBottenberg" title="twitter" target="_blank"><img src="https://api.iconify.design/logos/twitter.svg?width=32" alt="twitter" width="32" height="32"/></a>&nbsp;
+  <a href="https://t.me/peterbottenberg" title="telegram" target="_blank"><img src="https://api.iconify.design/logos/telegram.svg?width=32" alt="telegram" width="32" height="32"/></a>&nbsp;
+  <a href="https://bottenberg.dev" title="About me" target="_blank"><img src="https://api.iconify.design/gg:website.svg?color=%23ccc&width=32" alt="about me" width="32" height="32"/></a>
 </p>
 
 <!--
